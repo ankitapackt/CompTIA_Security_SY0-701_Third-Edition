@@ -1,4 +1,4 @@
-CompTIA Security+ SY0-701 Certification Guide Third Edition
+<H1> CompTIA Security+ SY0-701 Certification Guide Third Edition </H1>
 
 Master cybersecurity fundamentals and pass the SY0-701 exam on your first attempt	
 This is the third edition of the book Published by Packt. This repo has the graphics bundle, which includes the high quality color images used in the book.
