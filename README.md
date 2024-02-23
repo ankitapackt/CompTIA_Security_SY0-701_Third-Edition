@@ -19,5 +19,16 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 
 <H1> Errata </H1>
 <p>Chapter 4, Page No. 43</p>
-<p><b>Incorrect statement in the book</b>: This chapter covers the fourth objective of Domain 1.0, Explain the Importance of Using Appropriate Cryptographic Solutions </p>
-<p><b>Correct statement </b>: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam. </p>
+<p>Incorrect statement in the book: This chapter covers the fourth objective of Domain 1.0, Explain the Importance of Using Appropriate Cryptographic Solutions </p>
+<p>Correct statement: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam.</p>
+
+<p>Chapter 23, Page No. 398</p>
+<p>Incorrect statement in the book: For further details regarding COOPs, see Chapter 12, Explain the importance of resilience and recovery in security architecture.</p>
+<p>Correct statement: For further details regarding COOPs, see Chapter 13, Explain the importance of resilience and recovery in security architecture.</p>
+
+<p>Chapter 24, Page No. 415</p>
+<p>Incorrect statement in the book: This chapter covers the second objective in Domain 5.0, Security Architecture, of the CompTIA Security+ exam.</p>
+<p>Correct statement: This chapter covers the second objective in Domain 5.0, Program Management and Oversights, of the CompTIA Security+ exam.</p>
+
+<p> Headers section of Page No. 518</p>
+<p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
