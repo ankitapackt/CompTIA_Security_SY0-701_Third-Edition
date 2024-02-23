@@ -19,5 +19,5 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 
 <H1> Errata </H1>
 <p>Chapter 4, Page No. 43</p>
-<p>Incorrect statement in the book: This chapter covers the fourth objective of Domain 1.0, Explain the Importance of Using Appropriate Cryptographic Solutions </p>
-<p>Correct Statement: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam. </p>
+<p><b>Incorrect statement in the book</b>: This chapter covers the fourth objective of Domain 1.0, Explain the Importance of Using Appropriate Cryptographic Solutions </p>
+<p><b>Correct statement </b>: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam. </p>
