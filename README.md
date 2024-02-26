@@ -28,8 +28,10 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 
 <p><b>Chapter 24, Page No. 415</b></p>
 <p>Incorrect statement in the book: This chapter covers the second objective in Domain 5.0, Security Architecture, of the CompTIA Security+ exam.</p>
-<p>Correct statement: This chapter covers the second objective in Domain 5.0, Program Management and Oversights, of the CompTIA Security+ exam.</p>
-
+<p>Correct statement: This chapter covers the second objective in Domain 5.0, Program Management and Oversights, of the CompTIA Security+ exam.</p
+                                                                                                                                                 
+<p><b>Chapter 9, Chapter Review Questions section, Page No. 141</b></p>
+<p>In the "Chapter Review Questions" section, Question 4 listed in Chapter 9 is actually intended for Chapter 11. This discrepancy affects the numbering sequence of questions and solutions in both Chapter 9 and Chapter 11. Please be mindful of this when referencing the questions and their solutions in these chapters.</p>                                                                                                                                                 
 <p><b>Headers section of Page No. 518</b></p>
 <p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
