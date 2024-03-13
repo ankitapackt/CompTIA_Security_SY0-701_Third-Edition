@@ -36,4 +36,4 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
 <p><b>Chapter Review Questions section in all chapters in the EPUB file</b></p>
-<p>The "Chapter Review Questions" list utilizes numerical identifiers instead of alphabetic ones. Please interpret 1 as A, 2 as B, 3 as C, and 4 as D when referring to the options and checking the Solutions section.</p>
+<p>The "Chapter Review Questions" list utilizes numerical identifiers instead of alphabetic ones. Please interpret 1 as A, 2 as B, 3 as C, and 4 as D when referring to the options and checking the Solutions section. We have fixed this issue in the latest EPUB file available on all channels.</p>
