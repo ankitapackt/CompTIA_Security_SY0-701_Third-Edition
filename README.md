@@ -31,7 +31,7 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>Correct statement: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam.</p>
 
 <p><b>Chapter 9, Chapter Review Questions section, Page No. 141</b></p>
-<p>In the "Chapter Review Questions" section, Question 4 listed in Chapter 9 is actually intended for Chapter 11. This discrepancy affects the numbering sequence of questions and solutions in both Chapter 9 and Chapter 11. Please be mindful of this when referencing the questions and their solutions in these chapters.</p>   
+<p>In the "Chapter Review Questions" section, Question 4 listed in Chapter 9 is actually intended for Chapter 11. This discrepancy affects the numbering sequence of questions and solutions in both Chapter 9 and Chapter 11. Please consider this when referencing the questions and their solutions in these chapters.</p>   
 
 <p><b>Chapter 23, Page No. 398</b></p>
 <p>Incorrect statement in the book: For further details regarding COOPs, see Chapter 12, Explain the importance of resilience and recovery in security architecture.</p>
