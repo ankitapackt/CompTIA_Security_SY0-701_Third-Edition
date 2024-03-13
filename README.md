@@ -41,10 +41,10 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>Incorrect statement in the book: This chapter covers the second objective in Domain 5.0, Security Architecture, of the CompTIA Security+ exam.</p>
 <p>Correct statement: This chapter covers the second objective in Domain 5.0, Program Management and Oversights, of the CompTIA Security+ exam.</p>
 
-<p><b>Solutions at Page No. 482</b></p>
+<p><b>Solutions on Page No. 482</b></p>
 <p>Incorrect statement in the book: Option C is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail.</p>
 <p>Correct statement: Option B is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail. </p>
                                                                                                                                                                                                                      
-<p><b>Headers section of Page No. 518</b></p>
+<p><b>The Headers section of Page No. 518</b></p>
 <p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
