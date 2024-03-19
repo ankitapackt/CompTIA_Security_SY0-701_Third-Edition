@@ -22,32 +22,6 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p><b>Chapter Review Questions section in all chapters in the EPUB file</b></p>
 <p>The "Chapter Review Questions" list utilizes numerical identifiers instead of alphabetic ones. Please interpret 1 as A, 2 as B, 3 as C, and 4 as D when referring to the options and checking the Solutions section. We have fixed this issue in the latest EPUB file available on all channels.</p>
 
-<p><b>Chapter 2, Page No. 24</b></p>
-<p>Incorrect statement in the book: Another tactic we could use is fake telemetry where we identify and attack but return fake data</p>
-<p>Correct statement: Another tactic we could use is fake telemetry where we identify an attack but return fake data </p>
-
-<p><b>Chapter 4, Page No. 43</b></p>
-<p>Incorrect statement in the book: This chapter covers the fourth objective of Domain 1.0, Explain the Importance of Using Appropriate Cryptographic Solutions </p>
-<p>Correct statement: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam.</p>
-
-<p><b>Chapter 9, Chapter Review Questions section, Page No. 141</b></p>
-<p>In the "Chapter Review Questions" section, Question 4 listed in Chapter 9 is actually intended for Chapter 11. This discrepancy affects the numbering sequence of questions and solutions in both Chapter 9 and Chapter 11. Please consider this when referencing the questions and their solutions in these chapters.</p>   
-
-<p><b>Chapter 23, Page No. 398</b></p>
-<p>Incorrect statement in the book: For further details regarding COOPs, see Chapter 12, Explain the importance of resilience and recovery in security architecture.</p>
-<p>Correct statement: For further details regarding COOPs, see Chapter 13, Explain the importance of resilience and recovery in security architecture.</p>
-
-<p><b>Chapter 24, Page No. 415</b></p>
-<p>Incorrect statement in the book: This chapter covers the second objective in Domain 5.0, Security Architecture, of the CompTIA Security+ exam.</p>
-<p>Correct statement: This chapter covers the second objective in Domain 5.0, Program Management and Oversights, of the CompTIA Security+ exam.</p>
-
-<p><b>Solutions on Page No. 482</b></p>
-<p>Incorrect statement in the book: Option C is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail.</p>
-<p>Correct statement: Option B is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail. </p>
-                                                                                                                                                                                                                     
-<p><b>The Headers section of Page No. 518</b></p>
-<p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
-
 <p><b>Exam Discount Voucher Link</b></p>
 <p>The current exam discount voucher link in the book is temporarily now working. Kindly refer to this line: https://www.testforless.store/discounts and follow the steps mentioned in the book.</p>
 
@@ -59,17 +33,23 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>Incorrect statement in the book: The reminder note: A digital signature on an email proves that you sent the email; you cannot deny that sent the email.</p>
 <p>Correct statement: A digital signature on an email proves that you sent the email; you cannot deny that you sent the email.</p>
 
+<p><b>Chapter 2, Page No. 24</b></p>
+<p>Incorrect statement in the book: Another tactic we could use is fake telemetry where we identify and attack but return fake data</p>
+<p>Correct statement: Another tactic we could use is fake telemetry where we identify an attack but return fake data </p>
+
+<p><b>Chapter 4, Page No. 43</b></p>
+<p>Incorrect statement in the book: This chapter covers the fourth objective of Domain 1.0, Explain the Importance of Using Appropriate Cryptographic Solutions </p>
+<p>Correct statement: This chapter covers the fourth objective of Domain 1.0, General Security Concepts, of the CompTIA Security+ exam.</p
+                                                                                                                                         
 <p><b>Chapter 9, Page No. 138</b></p>
 <p>Incorrect statement in the book: Access control: Regulatomg user access to sensitive resources</p>
-<p>Correct statement: Access control: Regulating user access to sensitive resources</p>
+<p>Correct statement: Access control: Regulating user access to sensitive resources</p>                                                                                                                                         
+<p><b>Chapter 9, Chapter Review Questions section, Page No. 141</b></p>
+<p>In the "Chapter Review Questions" section, Question 4 listed in Chapter 9 is actually intended for Chapter 11. This discrepancy affects the numbering sequence of questions and solutions in both Chapter 9 and Chapter 11. Please consider this when referencing the questions and their solutions in these chapters.</p> 
 
 <p><b>Chapter 10, Page No. 164</b></p>
 <p>Incorrect statement in the book: Ease of recovery: CSPs use geographically distributed regions, each of which holds three or four copies of the data, so that should any datacenters go offline, the customer is still able to access other copies of the data.</p>
 <p>Correct statement: Ease of recovery: Cloud Service Providers (CSPs) use geographically distributed regions, each of which holds three or four copies of the data, so that should any datacenters go offline, the customer is still able to access other copies of the data.</p>
-
-<p><b>Chapter , Page No. </b></p>
-<p>Incorrect statement in the book: </p>
-<p>Correct statement: </p>
 
 <p><b>Chapter 11, Page No. 184</b></p>
 <p>Incorrect statement in the book: The table caption for 11.1 is incorrect as VPN modes</p>
@@ -97,6 +77,14 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>Incorrect statement in the book: Reminder: Ensure you know the differences between non-credentialed and credentialed vulnerability scanners.</p>
 <p>Correct statement: Reminder: Ensure you know the differences between non-credentialed and credentialed vulnerability scans.</p>
 
+<p><b>Chapter 23, Page No. 398</b></p>
+<p>Incorrect statement in the book: For further details regarding COOPs, see Chapter 12, Explain the importance of resilience and recovery in security architecture.</p>
+<p>Correct statement: For further details regarding COOPs, see Chapter 13, Explain the importance of resilience and recovery in security architecture.</p>
+
+<p><b>Chapter 24, Page No. 415</b></p>
+<p>Incorrect statement in the book: This chapter covers the second objective in Domain 5.0, Security Architecture, of the CompTIA Security+ exam.</p>
+<p>Correct statement: This chapter covers the second objective in Domain 5.0, Program Management and Oversights, of the CompTIA Security+ exam.</p>
+                                                                                                                                                                                                                  
 <p><b>Chapter 25, Page No. 433</b></p>
 <p>Incorrect statement in the book: Reminder: An MSA outlines the terms and conductions of a contract and an SOW outlines the vendor’s task, the organization’s expectations, and predefined outcomes.</p>
 <p>Correct statement: Reminder: An MSA outlines the terms and conditions of a contract and an SOW outlines the vendor’s task, the organization’s expectations, and predefined outcomes.</p>
@@ -105,11 +93,13 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>Incorrect statement in the book: 3. The correct answer is option C. Operational controls focus on ensuring efficient day-to-day operations and adherence to established procedures.</p>
 <p>Correct statement: 3. The correct answer is option A. Directive control provides specific instructions or guidelines.</p>
 
-<p><b>Solutions, Page No. 482</b></p>
-<p>Incorrect statement in the book: 4. Option C is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail</p>
-<p>Correct statement: 4. Option B is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail</p>
+<p><b>Solutions on Page No. 482</b></p>
+<p>Incorrect statement in the book: Option C is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail.</p>
+<p>Correct statement: Option B is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail. </p>
+
+<p><b>The Headers section of Page No. 518</b></p>
+<p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
 <p><b>Solutions, Page No. 568</b></p>
 <p>Incorrect statement in the book: The correct answer and explanation are missing.</p>
 <p>Correct statement: The correct answer is D. Service Level Agreement (SLA) Review can provide insights into whether the vendor's capabilities and services align with the organization's objectives and needs. It outlines the expected level of service and helps in understanding if the vendor can meet the strategic goals of the organization.</p>
-
