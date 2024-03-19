@@ -48,3 +48,6 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p><b>The Headers section of Page No. 518</b></p>
 <p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
+<p><b>Exam Discount Voucher Link</b></p>
+<p>The current exam discount voucher link in the book is temporarily now working. Kindly refer to this lin: https://www.testforless.store/discounts and follow the steps mentioned in the book.</p>
+
