@@ -49,5 +49,67 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
 <p><b>Exam Discount Voucher Link</b></p>
-<p>The current exam discount voucher link in the book is temporarily now working. Kindly refer to this lin: https://www.testforless.store/discounts and follow the steps mentioned in the book.</p>
+<p>The current exam discount voucher link in the book is temporarily now working. Kindly refer to this line: https://www.testforless.store/discounts and follow the steps mentioned in the book.</p>
+
+<p><b>Chapter 1, Page No. 10</b></p>
+<p>Incorrect statement in the book: The first question in the "Chapter Review" section is: Which control types are being adopted by the company?</p>
+<p>Correct statement: Which controls are being adopted by the company?</p>
+
+<p><b>Chapter 2, Page No. 15</b></p>
+<p>Incorrect statement in the book: The reminder note: A digital signature on an email proves that you sent the email; you cannot deny that sent the email.</p>
+<p>Correct statement: A digital signature on an email proves that you sent the email; you cannot deny that you sent the email.</p>
+
+<p><b>Chapter 9, Page No. 138</b></p>
+<p>Incorrect statement in the book: Access control: Regulatomg user access to sensitive resources</p>
+<p>Correct statement: Access control: Regulating user access to sensitive resources</p>
+
+<p><b>Chapter 10, Page No. 164</b></p>
+<p>Incorrect statement in the book: Ease of recovery: CSPs use geographically distributed regions, each of which holds three or four copies of the data, so that should any datacenters go offline, the customer is still able to access other copies of the data.</p>
+<p>Correct statement: Ease of recovery: Cloud Service Providers (CSPs) use geographically distributed regions, each of which holds three or four copies of the data, so that should any datacenters go offline, the customer is still able to access other copies of the data.</p>
+
+<p><b>Chapter , Page No. </b></p>
+<p>Incorrect statement in the book: </p>
+<p>Correct statement: </p>
+
+<p><b>Chapter 11, Page No. 184</b></p>
+<p>Incorrect statement in the book: The table caption for 11.1 is incorrect as VPN modes</p>
+<p>Correct statement: Table 11.1: IPSec modes</p>
+
+<p><b>Chapter 12, Page No. 195</b></p>
+<p>Incorrect statement in the book: A period (.) is missing at the end of the bullet point</p>
+<p>Correct statement: Critical data: This is data that is critical for the running of the organization, such as backups or encryption keys, that could cause operation failure if corrupted or lost. It could also be classified and encrypted to prevent an outside party from accessing it.</p>
+
+<p><b>Chapter 13, Page No. 206</b></p>
+<p> The arrows within the box next to "VIP" in Figure 13.1 are incorrectly pointing towards the right; they should be directed towards the left side instead.</p>
+
+<p><b>Chapter 19, Page No. 338</b></p>
+<p>Figure 19.1 image should be:</p>
+<p>Company A</p>
+<p>Mr Red</p>
+<p>Ms Blue</p>
+<p>Ms Green</p>
+<p>Company B</p>
+<p>Ms Orange</p>
+<p>Mr Purple</p>
+<p>Mr Yellow</p>
+
+<p><b>Chapter 22, Page No. 388</b></p>
+<p>Incorrect statement in the book: Reminder: Ensure you know the differences between non-credentialed and credentialed vulnerability scanners.</p>
+<p>Correct statement: Reminder: Ensure you know the differences between non-credentialed and credentialed vulnerability scans.</p>
+
+<p><b>Chapter 25, Page No. 433</b></p>
+<p>Incorrect statement in the book: Reminder: An MSA outlines the terms and conductions of a contract and an SOW outlines the vendor’s task, the organization’s expectations, and predefined outcomes.</p>
+<p>Correct statement: Reminder: An MSA outlines the terms and conditions of a contract and an SOW outlines the vendor’s task, the organization’s expectations, and predefined outcomes.</p>
+
+<p><b>Solutions, Page No. 481</b></p>
+<p>Incorrect statement in the book: 3. The correct answer is option C. Operational controls focus on ensuring efficient day-to-day operations and adherence to established procedures.</p>
+<p>Correct statement: 3. The correct answer is option A. Directive control provides specific instructions or guidelines.</p>
+
+<p><b>Solutions, Page No. 482</b></p>
+<p>Incorrect statement in the book: 4. Option C is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail</p>
+<p>Correct statement: 4. Option B is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail</p>
+
+<p><b>Solutions, Page No. 568</b></p>
+<p>Incorrect statement in the book: The correct answer and explanation are missing.</p>
+<p>Correct statement: The correct answer is D. Service Level Agreement (SLA) Review can provide insights into whether the vendor's capabilities and services align with the organization's objectives and needs. It outlines the expected level of service and helps in understanding if the vendor can meet the strategic goals of the organization.</p>
 
