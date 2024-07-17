@@ -23,7 +23,7 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>The "Chapter Review Questions" list utilizes numerical identifiers instead of alphabetic ones. Please interpret 1 as A, 2 as B, 3 as C, and 4 as D when referring to the options and checking the Solutions section. We have fixed this issue in the latest EPUB file available on all channels.</p>
 
 <p><b>Exam Discount Voucher Link</b></p>
-<p>The current exam discount voucher link in the book is temporarily now working. Kindly refer to this line: https://www.testforless.store/discounts and follow the steps mentioned in the book.</p>
+<p>The current exam discount voucher link in the book is temporarily not working. Kindly refer to this line: https://www.testforless.store/discounts and follow the steps mentioned in the book.</p>
 
 <p><b>Chapter 1, Page No. 10</b></p>
 <p>Incorrect statement in the book: The first question in the "Chapter Review" section is: Which control types are being adopted by the company?</p>
