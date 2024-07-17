@@ -47,7 +47,7 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p><b>Chapter 9, Chapter Review Questions section, Page No. 141</b></p>
 <p>In the "Chapter Review Questions" section, Question 4 listed in Chapter 9 is actually intended for Chapter 11. This discrepancy affects the numbering sequence of questions and solutions in both Chapter 9 and Chapter 11. Please consider this when referencing the questions and their solutions in these chapters.</p> 
 
-<p><b>Chapter 10, Page No. 164</b></p>
+<p><b>Chapter 10, Page No. 165</b></p>
 <p>Incorrect statement in the book: Ease of recovery: CSPs use geographically distributed regions, each of which holds three or four copies of the data, so that should any datacenters go offline, the customer is still able to access other copies of the data.</p>
 <p>Correct statement: Ease of recovery: Cloud Service Providers (CSPs) use geographically distributed regions, each of which holds three or four copies of the data, so that should any datacenters go offline, the customer is still able to access other copies of the data.</p>
 
@@ -89,17 +89,17 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <p>Incorrect statement in the book: Reminder: An MSA outlines the terms and conductions of a contract and an SOW outlines the vendor’s task, the organization’s expectations, and predefined outcomes.</p>
 <p>Correct statement: Reminder: An MSA outlines the terms and conditions of a contract and an SOW outlines the vendor’s task, the organization’s expectations, and predefined outcomes.</p>
 
-<p><b>Solutions, Page No. 481</b></p>
+<p><b>Solutions, Page No. 485</b></p>
 <p>Incorrect statement in the book: 3. The correct answer is option C. Operational controls focus on ensuring efficient day-to-day operations and adherence to established procedures.</p>
 <p>Correct statement: 3. The correct answer is option A. Directive control provides specific instructions or guidelines.</p>
 
-<p><b>Solutions on Page No. 482</b></p>
+<p><b>Solutions on Page No. 486</b></p>
 <p>Incorrect statement in the book: Option C is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail.</p>
 <p>Correct statement: Option B is incorrect; the application log focuses on application-specific events and is not as comprehensive as an audit trail. </p>
 
 <p><b>The Headers section of Page No. 518</b></p>
 <p>The Headers section of the page has an incorrect chapter number and name. It should be Chapter 15:  Explain the security implications of proper hardware, software, and data asset management</p>
 
-<p><b>Solutions, Page No. 568</b></p>
+<p><b>Solutions, Page No. 543</b></p>
 <p>Incorrect statement in the book: The correct answer and explanation are missing.</p>
 <p>Correct statement: The correct answer is D. Service Level Agreement (SLA) Review can provide insights into whether the vendor's capabilities and services align with the organization's objectives and needs. It outlines the expected level of service and helps in understanding if the vendor can meet the strategic goals of the organization.</p>
