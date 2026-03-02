@@ -18,6 +18,26 @@ Whether you aim to excel the CompTIA Security+ SY0-701 exam, advance your career
 <b>Ian Neil</b>
 
 <H1> Errata </H1>
+<H1> Accessing the Online Practice Resources </H1>
+ 
+<p> We are aware of an issue affecting the Book+ online platform associated with this title. Some readers may experience being redirected to the main or logout page when attempting to access online materials such as Mock exams, Flashcards, Exam tips, and Practice questions </p>
+
+<H2> What’s Happening </H2>
+<p>In certain cases, cached session data is preventing proper authentication, which results in users being redirected away from the requested content.
+ 
+This is a known issue and has been raised with the platform team. An internal ticket is currently open while the root cause is being addressed.</p>
+ 
+<H2> Current Workaround </H2>H2>
+ 
+<p> If you experience this issue, please follow these steps:</p>
+<li> Log out of the Book+ platform. </li>
+</li> Clear your browser cache. </li>
+</li> Close and reopen your browser. </li>
+</li> Log back in to the platform. </li>
+</li> Navigate directly back to the URL of the content you were trying to access. </li>
+<p> In many cases, simply logging out and back in before revisiting the original content URL resolves the issue. Clearing the cache will automatically log you out and may help if the issue persists.
+ 
+We appreciate your patience while this is being resolved and apologize for any inconvenience caused. </p>
 
 <p><b>Chapter Review Questions section in all chapters in the EPUB file</b></p>
 <p>The "Chapter Review Questions" list utilizes numerical identifiers instead of alphabetic ones. Please interpret 1 as A, 2 as B, 3 as C, and 4 as D when referring to the options and checking the Solutions section. We have fixed this issue in the latest EPUB file available on all channels.</p>
